@@ -11,5 +11,6 @@ npm-debug.*
 web-build/
 .env
 .vscode/
+yarn.lock
 # macOS
 .DS_Store
